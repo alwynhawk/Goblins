@@ -1,5 +1,5 @@
 <map proto="1">
-<name>Bowling For Goblins</name>
+<name>Bowling For Goons</name>
 <version>1</version>
 <objective>Avoid the gutters to knock over the 10 Goblins in the time limit!</objective>
 <time result="gutter">5m</time>
